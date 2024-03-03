@@ -1,0 +1,53 @@
+.miBoton {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4c9baf;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+
+    border: 1px solid black;
+    width: 500px;
+    margin:50px;
+    padding: 25px;
+}
+
+.img {
+    width: 250px;
+    display: flex;
+}
+
+.centro {
+    display: flex;
+    justify-content: center;
+}
+
+.linea{
+    width: 100%;
+    border: 1px solid
+}
+
+.Rojo{
+    width: 50px;
+    height: 25px;
+    background-color: red;
+    color: white;
+    
+}   
+
+.Azul{
+    width: 50px;
+    height: 25px;
+    background-color: blue;
+    color: white;
+}   
